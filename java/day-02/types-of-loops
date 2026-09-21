@@ -1,0 +1,48 @@
+ for loop: uses when  the iteraration are known
+ex: for (int i=1; i<5; i++){
+  System.out.println(i);
+}
+
+output: 
+1
+2
+3
+4
+
+while loop: uses it when you want to keep ruuning loop until the condition is false
+ex:
+
+int i=1;
+
+while(i<=5){
+S.o.p(i);
+i++;
+}
+
+output:
+
+1
+2
+3
+4
+5
+
+do - while : This loop executes at least once
+ex:
+int i=1;
+do{
+  S.o.p(i);
+ i++;
+}while(i<=5);
+
+output: 
+1
+2
+3
+4
+5
+
+
+flow control:
+break - is used to stop the loop
+continue - is used to skip the current itteration and continues the loop
