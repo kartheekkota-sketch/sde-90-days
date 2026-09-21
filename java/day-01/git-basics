@@ -1,0 +1,9 @@
+git basic commands:
+git init - to initialze a git repository
+git status - to check status of the repository
+git add . - to add your files to repository 
+git config --global user.name  - to set Author identity
+git config --global user.email - identity
+git commit -m "Example-program" - to commit files to repository
+git rm --cached directory - to remove file from the repository
+git push -u origin main - to push your file to the gitHub
